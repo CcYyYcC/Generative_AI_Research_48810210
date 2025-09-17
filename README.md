@@ -1,36 +1,37 @@
-# AI_Research Structure
+# Repository Structure
 
+```text
 .
-├─ Interview/                      
+├─ Interview/                      # Qualitative interview materials (sensitive, restricted access)
 │  ├─ interview1_Eric.docx
-│  ├─ interview2__Jason.docx
+│  ├─ interview2_Jason.docx
 │  └─ interview3_Frank.docx
 │
-├─ Literature/                     
-│  ├─ ref paper1.pdf
-│  ├─ ref paper 2.pdf
-│  └─ ref paper 3.pdf
+├─ Literature/                     # Literature (journal articles, books, news articles)
+│  ├─ ref_paper1.pdf
+│  ├─ ref_paper2.pdf
+│  └─ ref_paper3.pdf
 │
-├─ Materials/                      
+├─ Materials/                      # Additional resources (information sheets, images, media)
 │  ├─ Fig1.png
 │  └─ Fig2.png
 │
-├─ Quantitative/                   
+├─ Quantitative/                   # Quantitative data and analysis
 │  ├─ Data/
-│  │  ├─ Raw survey data.csv
-│  │  ├─ Extra raw survey data.csv
-│  │  └─ Cleaned survey data.csv
+│  │  ├─ Raw_survey_data.csv
+│  │  ├─ Extra_raw_survey_data.csv
+│  │  └─ Cleaned_survey_data.csv
 │  ├─ Scripts/
 │  │  └─ test.py
 │  ├─ Survey/
-│  │  └─ survey qs.docx
+│  │  └─ survey_qs.docx
 │  └─ Visualisations/
 │     └─ c.png
 │
-├─ Reports/                        
-│  ├─ Final Paper_Yucheng Chen.docx
-│  ├─ Final Paper_Yucheng Chen.pdf
-│  ├─ Final Proposal_Yucheng Chen.docx
-│  └─ Proposal Draft_Yucheng Chen.docx
+├─ Reports/                        # Drafts and final reports
+│  ├─ Final_Paper_Yucheng_Chen.docx
+│  ├─ Final_Paper_Yucheng_Chen.pdf
+│  ├─ Final_Proposal_Yucheng_Chen.docx
+│  └─ Proposal_Draft_Yucheng_Chen.docx
 │
 └─ README.md
