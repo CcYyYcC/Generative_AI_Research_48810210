@@ -1,1 +1,3 @@
-# REIT-6811-Yucheng-Chen
+# AI_Research
+
+put some stuff - all data for the project
